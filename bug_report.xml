@@ -1,1 +1,20 @@
+<bug_report>
+	<Summary>bug_report_1</Summary>
+	<Project>test_project</Project>
+	<Version>3.2.2</Version>
+	<Severity>S1(Blocker)</Severity>
+	<Priority>P1(High)</Priority>
+	<Status>Open</Status>
+	<Author>Makarov Maksim S</Author>
+	<Assigned_To>Makarov Maksim S</Assigned_To>
 
+	<Steps_to_reproduce>
+		<one>Open file</one>
+		<two>Edit</two>
+		<three>Save</three>
+	</Steps_to_reproduce>
+	
+	<Actual_result>123</Actual_result>
+	<Expected_result>321</Expected_result>
+	<Attachment>No</Attachment>
+</bug_report>
